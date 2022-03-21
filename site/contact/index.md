@@ -1,14 +1,10 @@
 ---
 layout: contact
 meta_title: Contact
-meta_description: The contact page
+meta_description: Contact Martha
 title: Get in touch
-sub_heading: We'd love to hear from you.
+sub_heading: Fill out the form below to contact me.
 eleventyNavigation:
   key: Contact
   order: 4
 ---
-
-Simply fill out the form below and we'll gladly ignore it.
-
-

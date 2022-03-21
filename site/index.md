@@ -1,41 +1,20 @@
 ---
 layout: home
-meta_title: Home
-meta_description: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
-title: An Eleventy starter skeleton
-sub_heading: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
+meta_title: Martha Syryca ° fullstack software engineer
+meta_description: bright and enthusiastic fullstack software engineer with experience building web applications using agile methodologies, and a current focus on building microservices following cloud native development principles
+title: My name is Martha
+sub_heading: 
 eleventyNavigation:
   key: Home
   order: 1
 ---
 
-## Features
+## about me
 
-- Clean, understated design - a good starting point for a portfolio or blog
-- A minimal build pipeline with [Laravel Mix](https://laravel-mix.com/docs/5.0/basic-example)
-- [Gorko](https://github.com/hankchizljaw/gorko), a smart little Sass-powered utility class generator
-- [Purgecss](https://purgecss.com/) to remove unused CSS
-- HTML minifier
-- Supports ES2017 JavaScript, with Babel compilation
-- SEO friendly page meta, including Open Graph and Twitter
-- Image lazy loading
-- Responsive navigation
-- XML Sitemap
+Art, health, and social advocacy have always inspired me. In a past life, I worked in performing arts administration with organizations such as Galapagos Art Space, The World Science Festival, The Bindlestiff Family Cirkus and The Westside Theatre. Now, as a fullstack software engineer, I strive to build technology that expands creative expression and social good.
 
-## Getting started
+Currently, I spend my time writing code to help folks connect with lawmakers, practicing British baking recipes (chocolate babka is one of my favorites), and keeping <a href="https://www.instagram.com/myfriendstevienips/" target="_blank">Stevie Nips entertained</a>. I also enjoy finding DIY spaces and unusual and discovering new music.
 
-### Prerequisites
-Node `v10+`
+## preferred tech stack
 
-### Installation
-
-1. Clone the repo `git clone https://github.com/josephdyer/skeleventy.git`
-2. `cd` into the project folder and run `npm install`
-3. Start the local development server by running `npm run dev` **Tip:** _Eleventy has live reload baked in!_
-
-## Ready to deploy?
-
-The ```npm run production``` command will remove any unused CSS with Purgecss and minify the CSS and JS files.
-
-I highly recommend using [Netlify](https://www.netlify.com) to host your site on, so I've included a ```netlify.toml``` configuration file for your convenience.
-
+javascript, html, css, kotlin, spring, vue, node, express, react, redux, postgresql, elasticsearch, aws and probably more by the time you read this.
